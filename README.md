@@ -1,6 +1,6 @@
 # 🩺 Medical RAG Chatbot
 
-An enterprise-ready, context-aware Medical Assistant powered by Retrieval-Augmented Generation (RAG). Built using **LangChain**, **Groq (OpenAI GPT-OSS 20B)**, **Pinecone Vector DB**, and **BAAI/bge-small-en-v1.5** embeddings, containerized with **Docker**, and deployed on **Google Cloud Run** (`asia-south2`).
+An end-to-end, context-aware Medical Assistant powered by Retrieval-Augmented Generation (RAG). Built using **LangChain**, **Groq (OpenAI GPT-OSS 20B)**, **Pinecone Vector DB**, and **BAAI/bge-small-en-v1.5** embeddings, containerized with **Docker**, and deployed on **Google Cloud Run** (`asia-south2`).
 
 🌐 **[Launch Live Application](https://medical-chatbot-1032077414344.asia-south2.run.app)**
 
